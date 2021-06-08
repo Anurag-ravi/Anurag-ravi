@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-ravi
-- 👀 I’m interested in Web development,Machine learning and Data science
-- 🌱 I’m currently learning Django,React,Machine learning and Data Science
+- 👀 I’m interested in Competitive Programming, Web development,Machine learning and Data science
+- 🌱 I’m currently learning Competitive Programming and Backend frameworks
 - 📫 How to reach me kumarayush1014@gmail.com
 
 <!---
