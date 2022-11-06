@@ -1,4 +1,4 @@
-[![MasterHead](https://anuragravi.netlify.app/static/media/c.jpg)](https://anuragravi.netlify.app)
+[![MasterHead](https://portfolio.anuragravi.tech/static/media/c.jpg)](https://anuragravi.netlify.app)
 <h1 align="center">Hi 👋, I'm Anurag Ravi</h1>
 <h3 align="center">A passionate full stack developer from IIT Guwahati</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
