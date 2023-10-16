@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/anuragravi_" target="blank"><img src="https://img.shields.io/twitter/follow/anuragravi_?logo=twitter&style=for-the-badge" alt="anuragravi_" /></a> </p>
 
-- 👨‍💻 I'm currently Working as SDE Intern at **Qualcomm**.
+- 👨‍💻 I've Worked as SDE Intern at **Qualcomm**.
 
-- 👨‍💻 All of my projects are available at [https://anuragravi.netlify.app/](https://anuragravi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anuragravi.netlify.app/](Portfolio)
 
 - 💬 Ask me about **MERN, DSA**
 
 - 📫 How to reach me **kumarayush1014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U1BmRe_ckY3gVZiK84YJs0Cm9E28BCL7/view?usp=sharing](https://drive.google.com/file/d/1U1BmRe_ckY3gVZiK84YJs0Cm9E28BCL7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XSaE13OIJCXBx_jf-2YS5a5wB6CBtK72/view?usp=sharing](click here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
