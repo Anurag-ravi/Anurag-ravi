@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kumarayush1014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XSaE13OIJCXBx_jf-2YS5a5wB6CBtK72/view?usp=sharing](click here)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XSaE13OIJCXBx_jf-2YS5a5wB6CBtK72/view?usp=sharing](Click_here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
