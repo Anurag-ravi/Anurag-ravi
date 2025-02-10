@@ -1,16 +1,15 @@
 [![MasterHead](https://anuragravi.netlify.app/static/media/c.jpg)](https://anuragravi.netlify.app)
 <h1 align="center">Hi 👋, I'm Anurag Ravi</h1>
-<h3 align="center">A passionate Software Developer from IIT Guwahati</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-ravi&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-ravi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anuragravi_" target="blank"><img src="https://img.shields.io/twitter/follow/anuragravi_?logo=twitter&style=for-the-badge" alt="anuragravi_" /></a> </p>
 
-- 👨‍💻 I've Worked as SDE Intern at **Qualcomm**.
+- 👨‍💻 I am Working as SDE at **BlinkIt**.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://anuragravi.netlify.app/)
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **GO, MERN, DSA**
 
 - 📫 How to reach me **kumarayush1014@gmail.com**
 
